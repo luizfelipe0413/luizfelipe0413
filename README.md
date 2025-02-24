@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-###
 
 <p align="center">My name is Luiz and I'm a Web Developer, from Brazil</p>
 
