@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a Web Dev with a passion for building things that make a difference. Whether it's writing code, designing solutions, or experimenting with new technologies, I’m all about learning and having a good time doing it.<br><br>🔍 Currently tinkering with my personal projects<br><br>📚 Currently learning Tailwind and Javascript<br><br>✉️ How to contact me [luizfelipematos0413@gmail.com](mailto:luizfelipematos0413@gmail.com)<br><br>💬 Feel free to reach out if you want to collaborate, share ideas, or just chat about tech!</p>
+<p align="left">I’m a Web Dev with a passion for building things that make a difference. Whether it's writing code, designing solutions, or experimenting with new technologies, I’m all about learning and having a good time doing it.<br><br>🔍 Currently tinkering with my personal projects<br><br>📚 Currently learning Tailwind and Javascript<br><br>✉️ How to contact me luizfelipematos0413@gmail.com<br><br>💬 Feel free to reach out if you want to collaborate, share ideas, or just chat about tech!</p>
 
 ###
 
