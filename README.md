@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Luiz and I'm a Web Developer, from Brazil</p>
+<p align="left">My name is Luiz and I'm a Web Developer, from Brazil</p>
 
 ###
 
