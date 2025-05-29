@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://luizfelipe0413.github.io/Portfolio/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/772f67ae-4610-480f-9655-56484f9d80f5" width="57" height="40" alt="Portfolio logo">
+    <img src="https://github.com/user-attachments/assets/772f67ae-4610-480f-9655-56484f9d80f5" width="57" height="45" alt="Portfolio logo">
   </a>
 </div>
 
